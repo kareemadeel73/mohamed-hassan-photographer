@@ -39,7 +39,7 @@ const Footer = () => {
       <p className="text-white text-center max-xs:text-[12px] max-md:text-[14px] w-full py-10">
         Developed with ❤️ by{" "}
         <a
-          href="https://www.themewagon.com"
+          href="https://www.linkedin.com/in/kareem-adel-10a662276?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
           className="underline font-bold"
           target="_blank"
         >
